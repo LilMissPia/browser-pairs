@@ -97,13 +97,13 @@ body {
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
 .ie {background: url(https://sphotos-a.xx.fbcdn.net/hphotos-prn1/13055_324678807651715_870152772_n.jpg) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.fx {background: url(https://sphotos-b.xx.fbcdn.net/hphotos-ash3/536151_324678830985046_1217788841_n.jpg) no-repeat; background-size: contain;}
+.cr {background: url(https://sphotos-b.xx.fbcdn.net/hphotos-snc7/385397_324678837651712_1084005695_n.jpg) no-repeat; background-size: contain;}
+.sf {background: url(https://sphotos-a.xx.fbcdn.net/hphotos-ash3/536194_324678840985045_1185496597_n.jpg) no-repeat; background-size: contain;}
+.op {background: url(https://sphotos-a.xx.fbcdn.net/hphotos-prn1/72921_324678927651703_242817393_n.jpg) no-repeat; background-size: contain;}
+.ns {background: url(https://sphotos-b.xx.fbcdn.net/hphotos-snc6/223541_324678930985036_1279896042_n.jpg) no-repeat; background-size: contain;}
+.tb {background: url(https://sphotos-b.xx.fbcdn.net/hphotos-snc7/404944_324682034318059_625960751_n.jpg) no-repeat; background-size: contain;}
+.fm {background: url(https://sphotos-b.xx.fbcdn.net/hphotos-prn1/543479_324682040984725_433677915_n.jpg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
