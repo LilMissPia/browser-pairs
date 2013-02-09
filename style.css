@@ -97,7 +97,7 @@ body {
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
 .ie {background: url(https://sphotos-a.xx.fbcdn.net/hphotos-prn1/561513_324685157651080_1183993040_n.jpg) no-repeat; background-size: contain;}
-.fx {background: url(https://sphotos-a.xx.fbcdn.net/hphotos-prn1/561513_324685157651080_1183993040_n.jpg) no-repeat; background-size: contain;}
+.fx {background: url(https://sphotos-b.xx.fbcdn.net/hphotos-prn1/555793_324686074317655_12666433_n.jpg) no-repeat; background-size: contain;}
 .cr {background: url(https://sphotos-a.xx.fbcdn.net/hphotos-prn1/561513_324685157651080_1183993040_n.jpg) no-repeat; background-size: contain;}
 .sf {background: url(https://sphotos-a.xx.fbcdn.net/hphotos-prn1/561513_324685157651080_1183993040_n.jpg) no-repeat; background-size: contain;}
 .op {background: url(https://sphotos-a.xx.fbcdn.net/hphotos-prn1/561513_324685157651080_1183993040_n.jpg) no-repeat; background-size: contain;}
